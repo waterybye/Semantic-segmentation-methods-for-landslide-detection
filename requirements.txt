@@ -1,0 +1,9 @@
+tqdm
+torchvision
+torch
+numpy
+pandas
+pillow
+pydensecrf
+albumentations
+opencv
