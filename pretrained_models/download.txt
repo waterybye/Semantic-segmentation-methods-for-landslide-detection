@@ -1,4 +1,4 @@
-Pretained models can be download from Google Drive: 
+Pretrained models can be download from Google Drive: 
 https://drive.google.com/drive/folders/1QNMtXV63W29R2dcFq_X6AmpBvYlDb96q?usp=sharing
 
 please put the models in folder "pretained_models" under the current directory.
