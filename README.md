@@ -3,6 +3,7 @@ Semantic-segmentation-methods-for-landslide-detection
 
 ## Project Structure
 The descriptions of principal files in this project are introduced as follows:
+* ./landslide.kml : the construction of landslide imagery datasets is of great significance to the monitoring and analysis of landslides. Up to now, open landslide imagery datasets are still so scarce that research in this field is developing slowly. Therefore, we create an open labelled remote sensing landslide dataset in which landslides are determined based on field investigation and remote sensing imagery interpretation, as supported by the China Geological Survey (CGS) of China.
 * ./data/ : processed data are under in this folder, and the results of experiments will be generated here. The download instructions of dataset are shown in "download.txt".
 * ./data_util/
   * dataset.py : codes for generating the dataset for our model
